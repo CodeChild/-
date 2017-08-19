@@ -1,2 +1,2 @@
 # Corner-trigger
-* 鼠标移到角落时触发taskview
+* 鼠标移到左上角时触发taskview
